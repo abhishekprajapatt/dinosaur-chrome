@@ -61,13 +61,6 @@ java App
 
 ---
 
-## Author
-
-**Your Name**  
-GitHub: [@yourusername](https://github.com/abhishekprajapatt)
-
----
-
 ## License
 
 MIT © 2025
