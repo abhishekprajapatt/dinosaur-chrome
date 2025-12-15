@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Random;
 import javax.swing.*;
 
-
 public class DinosaurChrome extends JPanel implements ActionListener, KeyListener {
 
     int boardWidth = 750;
