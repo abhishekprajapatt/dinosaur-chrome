@@ -5,6 +5,7 @@ public class App {
         int boardWidth = 750;
         int boardHeight = 250;
 
+        
         JFrame frame = new JFrame("Chrome Dinosaur");
         frame.setSize(boardWidth, boardHeight);
         frame.setLocationRelativeTo(null);
